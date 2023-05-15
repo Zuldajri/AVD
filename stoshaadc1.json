@@ -57,7 +57,7 @@
                 "accessTier": "[variables('accessTier')]",
                 "minimumTlsVersion": "[variables('minimumTlsVersion')]",
                 "supportsHttpsTrafficOnly": "[variables('supportsHttpsTrafficOnly')]",
-                "allowBlobPublicAccess": "[variables('allowBlobPublicAccess')]",
+                "allowBlobPublicAccess": "[variables('allowBlobPublicAccess')]"
             }
         },
 	{
